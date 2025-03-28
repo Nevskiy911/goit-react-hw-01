@@ -1,5 +1,4 @@
 import 'normalize.css';
-import styles from "./App.module.css"
 import userData from "./data/userData.json";
 import friends from "./data/friends.json";
 import transactions from "./data/transactions.json";
